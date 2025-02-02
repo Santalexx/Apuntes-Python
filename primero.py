@@ -47,3 +47,12 @@ print(tabla, "x 9 = ", tabla * 9)
 print(tabla, "x 10 = ", tabla * 10)
 """
 
+# Hacer un programa que le pregunte al usuario su nombre, su edad y su estatura y mostrarlo en pantalla
+
+nombre = input("Dame tu nombre: ")
+edad = int(input("Dame tu edad: "))
+estatura = float(input("Dame tu estatura: "))
+print("Tu nombre es: ", nombre)
+print("Tu edad es: ", edad)
+print("Tu estatura es: ", estatura)
+print("Gracias por tu información")
