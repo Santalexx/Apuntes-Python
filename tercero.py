@@ -25,3 +25,11 @@ print(frutas)
 fruits = ('apple', 'banana', 'cherry', 'dates', 'elderberry', 'fig', 'grape')
 (x, *y, z) = fruits
 print(y)
+
+# Hacer una lista y agregar varios elementos a cada uno
+
+frutas = ['fresas', 'papaya', 'naranja']
+frutas.append('manzana')
+frutas.append('pera')
+frutas.append('uva')
+print(frutas)
