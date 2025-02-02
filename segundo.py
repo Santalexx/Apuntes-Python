@@ -63,3 +63,8 @@ print(palabra[2:6])
 lista = [1, 2, 3, 4, 5]
 tupla = (1, 2, 3, 4, 5)
 diccionario = {'uno': 1, 'dos': 2, 'tres': 3, 'cuatro': 4, 'cinco': 5}
+
+# Hacer una lista con los elementos de la tupla
+
+lista2 = list(tupla)
+print(lista2)
