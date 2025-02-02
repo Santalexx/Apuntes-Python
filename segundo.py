@@ -57,3 +57,9 @@ print(palabra[0])
 print(len(palabra))
 print(palabra[2:6])
 """
+
+# Hacer una lista, tupla y diccionario con los siguientes elementos: 1, 2, 3, 4, 5
+
+lista = [1, 2, 3, 4, 5]
+tupla = (1, 2, 3, 4, 5)
+diccionario = {'uno': 1, 'dos': 2, 'tres': 3, 'cuatro': 4, 'cinco': 5}
