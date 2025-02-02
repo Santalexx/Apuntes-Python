@@ -16,3 +16,8 @@ colores = {"Rojo", "Azul", "Mazda", "Renault", "Chevrolet"}
 print(carros)
 carros.pop(2)
 print(carros)
+
+# Hacer varios conjuntos de paises
+
+paises = {"Colombia", "Perú", "Ecuador", "Venezuela"}
+paises2 = {"Colombia", "Perú", "Ecuador", "Venezuela", "Chile", "Argentina"}
