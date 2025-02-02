@@ -56,3 +56,11 @@ print("Tu nombre es: ", nombre)
 print("Tu edad es: ", edad)
 print("Tu estatura es: ", estatura)
 print("Gracias por tu información")
+
+# Hacer un programa que sume 3 números
+
+numero1 = int(input("Dame el primer número: "))
+numero2 = int(input("Dame el segundo número: "))
+numero3 = int(input("Dame el tercer número: "))
+suma = numero1 + numero2 + numero3
+print("La suma de los números es: ", suma)
