@@ -21,3 +21,9 @@ print(carros)
 
 paises = {"Colombia", "Perú", "Ecuador", "Venezuela"}
 paises2 = {"Colombia", "Perú", "Ecuador", "Venezuela", "Chile", "Argentina"}
+
+# Hacer una lista con los elementos de los conjuntos
+
+paises = {"Colombia", "Perú", "Ecuador", "Venezuela"}
+lista = list(paises)
+print(lista)
